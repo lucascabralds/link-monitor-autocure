@@ -305,7 +305,7 @@ Ao final de cada execução no modo `completo`, o sistema exibe um relatório co
 
 ## Autor
 
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **[Lucas Cabral]**
 
 - 🐙 GitHub: [github.com/lucascabralds](https://github.com/lucascabralds)
 - 💼 LinkedIn: [linkedin.com/in/lucascasantos](https://www.linkedin.com/in/lucascasantos/)
